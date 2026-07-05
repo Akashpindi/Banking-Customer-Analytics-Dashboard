@@ -94,7 +94,7 @@ The original dataset is included in this repository as:
 
 The completed interactive dashboard is available as:
 
-📄 **Banking Customer Analytics Dashboard.xlsx**
+📄 **[Banking Customer Analytics Dashboard.xlsx](https://github.com/Akashpindi/Banking-Customer-Analytics-Dashboard/blob/main/Banking%20Customer%20Analytics%20Dashboard.xlsx)**
 
 ## 👨‍💻 Author
 
