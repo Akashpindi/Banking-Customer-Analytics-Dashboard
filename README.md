@@ -88,7 +88,7 @@ The dataset has been structured for analysis and dashboard creation using Micros
 
 The original dataset is included in this repository as:
 
-📄 **Banking Customer Dataset.xlsx**
+📄 **[Banking Customer Dataset.xlsx](https://github.com/Akashpindi/Banking-Customer-Analytics-Dashboard/blob/main/Banking%20Customer%20Dataset.xlsx)**
 
 ## 📊 Dashboard
 
