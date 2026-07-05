@@ -10,7 +10,7 @@ This project transforms raw banking customer data into actionable insights throu
 
 > Add a screenshot named **Dashboard.png** to your repository.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview]([Dashboard.png](https://github.com/Akashpindi/Banking-Customer-Analytics-Dashboard/blob/main/Banking%20Customer%20%20Dashboard%20Preview.png))
 
 ## 📂 Repository Files
 
