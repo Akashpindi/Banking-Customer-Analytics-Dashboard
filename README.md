@@ -6,12 +6,6 @@ An interactive Banking Customer Analytics Dashboard built in Microsoft Excel to 
 
 This project transforms raw banking customer data into actionable insights through an interactive Excel dashboard. It enables users to explore customer trends, analyze financial metrics, and monitor KPIs using Pivot Tables, Pivot Charts, Slicers, and Excel formulas.
 
-## 🖼️ Dashboard Preview
-
-> Add a screenshot named **Dashboard.png** to your repository.
-
-![[dashboard]((https://github.com/Akashpindi/Banking-Customer-Analytics-Dashboard/blob/main/Banking%20Customer%20%20Dashboard%20Preview.png))]
-
 ## 📂 Repository Files
 
 | File | Description |
